@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="DADDY_DEAREST.png">
+<TextureAtlas imagePath="BoyFriend_Rain.png">
 	<!-- Created with Adobe Animate version 21.0.1.37179 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="0BF attack instance 10000" x="10" y="10" width="386" height="373" frameX="-1136" frameY="-24" frameWidth="1551" frameHeight="400"/>
@@ -25,14 +25,6 @@
 	<SubTexture name="0BF attack instance 10020" x="10" y="10" width="386" height="373" frameX="-1136" frameY="-24" frameWidth="1551" frameHeight="400"/>
 	<SubTexture name="0BF attack instance 10021" x="4825" y="420" width="384" height="373" frameX="-1136" frameY="-24" frameWidth="1551" frameHeight="400"/>
 	<SubTexture name="0BF attack instance 10022" x="4825" y="420" width="384" height="373" frameX="-1136" frameY="-24" frameWidth="1551" frameHeight="400"/>
-	<SubTexture name="0BF attack instance 10023" x="4825" y="420" width="384" height="373" frameX="-1136" frameY="-24" frameWidth="1551" frameHeight="400"/>
-	<SubTexture name="0BF attack instance 10024" x="4825" y="420" width="384" height="373" frameX="-1136" frameY="-24" frameWidth="1551" frameHeight="400"/>
-	<SubTexture name="0BF attack instance 10025" x="4825" y="420" width="384" height="373" frameX="-1136" frameY="-24" frameWidth="1551" frameHeight="400"/>
-	<SubTexture name="0BF attack instance 10026" x="4825" y="420" width="384" height="373" frameX="-1136" frameY="-24" frameWidth="1551" frameHeight="400"/>
-	<SubTexture name="0BF attack instance 10027" x="4825" y="420" width="384" height="373" frameX="-1136" frameY="-24" frameWidth="1551" frameHeight="400"/>
-	<SubTexture name="0BF attack instance 10028" x="4825" y="420" width="384" height="373" frameX="-1136" frameY="-24" frameWidth="1551" frameHeight="400"/>
-	<SubTexture name="0BF attack instance 10029" x="4825" y="420" width="384" height="373" frameX="-1136" frameY="-24" frameWidth="1551" frameHeight="400"/>
-	<SubTexture name="0BF attack instance 10030" x="4825" y="420" width="384" height="373" frameX="-1136" frameY="-24" frameWidth="1551" frameHeight="400"/>
 	<SubTexture name="BF NOTE DOWN MISS instance 10000" x="5219" y="420" width="375" height="393" frameX="-2" frameY="0" frameWidth="378" frameHeight="393"/>
 	<SubTexture name="BF NOTE DOWN MISS instance 10001" x="5219" y="420" width="375" height="393" frameX="-2" frameY="0" frameWidth="378" frameHeight="393"/>
 	<SubTexture name="BF NOTE DOWN MISS instance 10002" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
