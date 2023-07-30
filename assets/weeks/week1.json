@@ -1,6 +1,6 @@
 {
 	"storyName": "That one cup guy",
-	"difficulties": "normal",
+	"difficulties": "Easy,Normal,Hard",
 	"hideFreeplay": false,
 	"weekBackground": "snake",
 	"weekBefore": "tutorial",
