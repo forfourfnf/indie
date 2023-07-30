@@ -4002,27 +4002,6 @@
 		"validScore": true,
 		"bpm": 200,
 		"speed": 2.8,
-		"events": [
-			[
-				84525,
-				[
-					[
-						"Change Character",
-						"bf-pixel",
-						"bf-car"
-					]
-				]
-			],
-			[
-				84600,
-				[
-					[
-						"Change Character",
-						"gf",
-						"mom-car"
-					]
-				]
-			]
-		]
+		"events": []
 	}
 }
