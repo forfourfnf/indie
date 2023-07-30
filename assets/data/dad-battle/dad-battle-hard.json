@@ -8606,6 +8606,26 @@
 				"bpm": 136,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 136,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 136,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
 			}
 		],
 		"player3": "gf",
@@ -8617,7 +8637,7 @@
 		"sectionLengths": [],
 		"gfVersion": "gf",
 		"events": [],
-		"stage": "mall-evil",
+		"stage": "mallEvil",
 		"needsVoices": true,
 		"sections": 0,
 		"bpm": 136,

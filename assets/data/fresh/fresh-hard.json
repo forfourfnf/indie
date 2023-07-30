@@ -54,7 +54,7 @@
 			]
 		],
 		"gfVersion": "gf",
-		"player2": "cuphead",
+		"player2": "senpai",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -5644,6 +5644,46 @@
 				"sectionBeats": 4,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 140,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 140,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 140,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 140,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
 			}
 		],
 		"player3": "gf",
@@ -5652,6 +5692,7 @@
 		"needsVoices": true,
 		"validScore": true,
 		"speed": 2.5,
-		"bpm": 140
+		"bpm": 140,
+		"arrowSkin": "CUPNOTE_assets"
 	}
 }
