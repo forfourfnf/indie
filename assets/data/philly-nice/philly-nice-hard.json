@@ -3,17 +3,22 @@
 		"player1": "bf-pixel",
 		"events": [
 			[
+				84600,
+				[
+					[
+						"Change Character",
+						"bf-pixel",
+						"bf-car"
+					]
+				]
+			],
+			[
 				84675,
 				[
 					[
 						"Change Character",
 						"gf",
 						"mom-car"
-					],
-					[
-						"Change Character",
-						"bf-pixel",
-						"bf-car"
 					]
 				]
 			]
